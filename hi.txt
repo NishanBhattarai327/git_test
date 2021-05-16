@@ -1,4 +1,8 @@
 Hi again
 changed
 braching named testing
+<<<<<<< HEAD
 create new-branch and update hi.txt
+=======
+Hi from main after new-branch
+>>>>>>> main
